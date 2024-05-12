@@ -1,0 +1,2 @@
+2024-05-11 20:30:56.142 +07:00 [ERR] Failed executing DbCommand (5,464ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE DATABASE "HotelListingAPI";
